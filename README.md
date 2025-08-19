@@ -1,4 +1,4 @@
-# woosh_auth_app
+# MOONSUN STAFF
 
 A new Flutter project.
 
